@@ -282,7 +282,9 @@ func main() {
 }
 
 ````
+In this file, we've added two new subclasses, `Car` and `Motorcycle`, which inherit from the `Vehicle` class. We've also added some additional methods and properties to these subclasses to demonstrate how inheritance works.
 
+For example, the `Car` class overrides the `start` and `drive` methods from the `Vehicle class, adding
 
 
 
